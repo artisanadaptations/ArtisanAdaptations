@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+My name is Paul.
+
+I am working on creating highly customized solutions for users with disabilities to navigate electronic life.
+
+Check out my website at [Artisan Adaptations](https://artisanadaptations.com) for more information.
+
 <!--
 **artisanadaptations/ArtisanAdaptations** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
