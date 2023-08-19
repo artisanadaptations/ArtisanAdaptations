@@ -2,7 +2,7 @@
 
 My name is Paul.
 
-I am working on creating highly customized solutions for users with disabilities to navigate electronic life.
+I am working on creating highly customized solutions for users with disabilities to navigate life.
 
 Check out my website at [Artisan Adaptations](https://artisanadaptations.com) for more information.
 
